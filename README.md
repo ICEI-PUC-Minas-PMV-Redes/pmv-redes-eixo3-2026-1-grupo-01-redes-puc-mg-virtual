@@ -19,13 +19,10 @@
 |---------------|-----------|
 | *(Nome 1)* | *(Matrícula)* |
 | *(Nome 2)* | *(Matrícula)* |
-| *(Nome 3)* | *(Matrícula)* |
-| *(Nome 4)* | *(Matrícula)* |
-| *(Nome 5)* | *(Matrícula)* |
 
 ### Orientador(a)
 
-*(Nome do(a) professor(a) orientador(a))*
+Prof. Harison Herman Silva
 
 ---
 
@@ -34,7 +31,7 @@
 | Campo | Descrição |
 |-------|-----------|
 | **Nome da comunidade/organização** | *(Preencher)* |
-| **Tipo** | *(ONG / Escola / Associação / Empresa / Órgão público / Outro)* |
+| **Tipo** | Empresa |
 | **Endereço** | *(Preencher)* |
 | **Responsável pelo contato** | *(Nome e cargo)* |
 | **E-mail de contato** | *(Preencher)* |
