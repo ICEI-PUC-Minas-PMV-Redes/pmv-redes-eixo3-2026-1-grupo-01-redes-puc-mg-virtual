@@ -9,16 +9,16 @@
 
 | Campo | Descrição |
 |-------|-----------|
-| **Turma** | *(Informar a turma)* |
-| **Grupo** | *(Informar o número do grupo)* |
-| **Semestre/Ano** | *(Preencher)* |
+| **Turma** | *(Turma 01)* |
+| **Grupo** | *(Grupo 1)* |
+| **Semestre/Ano** | *(3 semestre/2026)* |
 
 ### Integrantes
 
 | Nome Completo | Matrícula |
 |---------------|-----------|
-| *(Nome 1)* | *(Matrícula)* |
-| *(Nome 2)* | *(Matrícula)* |
+| *(Tallis Bruce Rodrigues Oliveira)* | *(Matrícula)* |
+| *(Breno Neves Couto)* | *(896041)* |
 
 ### Orientador(a)
 
